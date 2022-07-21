@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// finction to search a value
 int binary_search( int a[], int n, int x ) {
       int left, right, mid;
       left = 0;
